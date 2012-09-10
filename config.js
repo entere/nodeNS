@@ -1,11 +1,11 @@
 var redis_info = {
-	'host' : '118.26.232.96',
+	'host' : 'localhost',
 	'port' : 6379,
-	'password' : '12\\#\\$chinablog'	
+	'password' : '12\\#\\$235'	
 }
 
 var server_info = {
-	'host' : '118.26.232.96',
+	'host' : 'localhost',
 	'port' : '8888'
 }
 
